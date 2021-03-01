@@ -6,6 +6,13 @@
 </a>
 
 ## 🌱SAGIRI-kawaii
+### About Me
+
+摸鱼大师🐟
+
+放鸽子高手🕊
+
+二刺螈二刺螈！
 
 <a href=#>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGIRI-kawaii&layout=compact&hide_border=true">
