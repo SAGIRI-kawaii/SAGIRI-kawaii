@@ -3,4 +3,4 @@
 
 <h3>语言</h3>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGIRI-kawaii&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGIRI-kawaii&layout=compact" />
