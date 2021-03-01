@@ -11,24 +11,32 @@
 - 放鸽子高手🕊
 - 二刺螈二刺螈！
 
+<a href=#>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGIRI-kawaii&layout=compact&hide_border=true">
+</a>
+
 ### 最擅长整什么活儿
 
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-<br>
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-<br>
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 <br>
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-
-<a href=#>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGIRI-kawaii&layout=compact&hide_border=true">
-</a>
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+<br>
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+<br>
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
