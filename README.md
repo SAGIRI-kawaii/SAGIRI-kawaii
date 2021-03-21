@@ -1,6 +1,3 @@
-
-[![61703549_p0.png](https://raw.githubusercontent.com/SAGIRI-kawaii/SAGIRI-kawaii/main/61703549_p0.png)]()
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SAGIRI-kawaii&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=纱雾酱世界第一可爱！！！&count_private=true">
 </a>
