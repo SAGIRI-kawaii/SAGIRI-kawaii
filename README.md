@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![](https://img.shields.io/badge/-English-e34f26?style=flat-square&&logoColor=fff)
+![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 <br>
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
