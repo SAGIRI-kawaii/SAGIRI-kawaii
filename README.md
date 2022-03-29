@@ -42,5 +42,5 @@
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 
-[![SAGIRI-kawaii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SAGIRI-kawaii&layout=compact)](https://github.com/SAGIRI-kawaii/SAGIRI-kawaii)
+[![SAGIRI-kawaii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaphakiel&layout=compact)](https://github.com/SAGIRI-kawaii/SAGIRI-kawaii)
 
